@@ -1,7 +1,8 @@
 print("qwertyujki")
 print("hello gauri")
 
-if 1 = 3:
-  print("this is 3")
+condition = False
+if condition:
+    print("this is 3")
 else:
-  ptint("htis is 1")
+    print("htis is 1")
